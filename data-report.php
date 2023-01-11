@@ -17,7 +17,7 @@
                         <div class="col-lg-12">
                               <div class="container">
                                     <h1 class="text-center font-weight-bold" style="color: #565757;">Quality Yeild
-                                          Report</h1>
+                                          Reportaaaaaaaaa</h1>
                                     <br>
                                     <form class="row g-4">
                                           <div class="col-auto">
